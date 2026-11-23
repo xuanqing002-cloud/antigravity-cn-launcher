@@ -1,0 +1,5 @@
+dist/
+test_mock/
+*.log
+*.tmp
+*.part
